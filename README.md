@@ -12,13 +12,15 @@
 
 
 ## Mini Project - Linear Regression
-https://colab.research.google.com/drive/12QOR9y7cZlNkTBbPNmSGaqcJ0hvIGd5g
+https://github.com/ArjunInventor/MSTC-Session-Intro-to-ML/blob/master/Linear_Regression.ipynb
 
 ## Final Project - Deep Neural Network
-https://colab.research.google.com/drive/10cT3z_Gx2Ho3bkUegTc8Xj4aHBOKeZJ5
+https://github.com/ArjunInventor/MSTC-Session-Intro-to-ML/blob/master/Dnn.ipynb
 
 ## Assignment
 Build a DNN to estimate Housing Value using this dataset from University of California - https://archive.ics.uci.edu/ml/machine-learning-databases/housing
+
+Solution - Not yet uploaded
 
 ## ML Courses
  - Andrew Ng's Free Course on Machine Learning - https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
